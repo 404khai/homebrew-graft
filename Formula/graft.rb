@@ -2,7 +2,6 @@ class Graft < Formula
   desc "Copy-on-write workspaces for parallel coding agents"
   homepage "https://github.com/404khai/graft"
   license "MIT"
-  version "0.2.0"
 
   on_macos do
     on_arm do
